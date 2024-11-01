@@ -1,0 +1,26 @@
+# C++ build artifacts
+*.o
+*.out
+*.exe
+a.out
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Input/output test files
+*.in
+*.ans
