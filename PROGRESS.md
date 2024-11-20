@@ -1,6 +1,6 @@
 # DSA Practice — Progress Tracker
 
-**0 / 300** solved | Started: Nov 2024 | Language: C++ and Python
+**20 / 300** solved | Started: Nov 2024 | Language: C++ and Python
 
 Update this file each time you solve a question. Mark C++ with `✅` and Python with `✅`. Use `⬜` for not done.
 
@@ -8,26 +8,26 @@ Update this file each time you solve a question. Mark C++ with `✅` and Python 
 
 | # | Title | Category | Difficulty | C++ | Python | Date Solved |
 |---|---|---|---|---|---|---|
-| 1 | Two Sum | Arrays | Easy | ⬜ | ⬜ | — |
-| 2 | Best Time to Buy and Sell Stock | Arrays | Easy | ⬜ | ⬜ | — |
-| 3 | Contains Duplicate | Arrays | Easy | ⬜ | ⬜ | — |
-| 4 | Product of Array Except Self | Arrays | Medium | ⬜ | ⬜ | — |
-| 5 | Maximum Subarray | Arrays | Medium | ⬜ | ⬜ | — |
-| 6 | Maximum Product Subarray | Arrays | Medium | ⬜ | ⬜ | — |
-| 7 | Find Minimum in Rotated Sorted Array | Arrays | Medium | ⬜ | ⬜ | — |
-| 8 | Search in Rotated Sorted Array | Arrays | Medium | ⬜ | ⬜ | — |
-| 9 | 3Sum | Arrays | Medium | ⬜ | ⬜ | — |
-| 10 | Container With Most Water | Arrays | Medium | ⬜ | ⬜ | — |
-| 11 | Trapping Rain Water | Arrays | Hard | ⬜ | ⬜ | — |
-| 12 | Jump Game | Arrays | Medium | ⬜ | ⬜ | — |
-| 13 | Jump Game II | Arrays | Medium | ⬜ | ⬜ | — |
-| 14 | Gas Station | Arrays | Medium | ⬜ | ⬜ | — |
-| 15 | Candy | Arrays | Hard | ⬜ | ⬜ | — |
-| 16 | Rotate Array | Arrays | Medium | ⬜ | ⬜ | — |
-| 17 | Set Matrix Zeroes | Arrays | Medium | ⬜ | ⬜ | — |
-| 18 | Spiral Matrix | Arrays | Medium | ⬜ | ⬜ | — |
-| 19 | Pascal's Triangle | Arrays | Easy | ⬜ | ⬜ | — |
-| 20 | Majority Element | Arrays | Easy | ⬜ | ⬜ | — |
+| 1 | Two Sum | Arrays | Easy | ✅ | ✅ | 01-Nov-2024 |
+| 2 | Best Time to Buy and Sell Stock | Arrays | Easy | ✅ | ✅ | 02-Nov-2024 |
+| 3 | Contains Duplicate | Arrays | Easy | ✅ | ✅ | 03-Nov-2024 |
+| 4 | Product of Array Except Self | Arrays | Medium | ✅ | ✅ | 04-Nov-2024 |
+| 5 | Maximum Subarray | Arrays | Medium | ✅ | ✅ | 05-Nov-2024 |
+| 6 | Maximum Product Subarray | Arrays | Medium | ✅ | ✅ | 06-Nov-2024 |
+| 7 | Find Minimum in Rotated Sorted Array | Arrays | Medium | ✅ | ✅ | 07-Nov-2024 |
+| 8 | Search in Rotated Sorted Array | Arrays | Medium | ✅ | ✅ | 08-Nov-2024 |
+| 9 | 3Sum | Arrays | Medium | ✅ | ✅ | 09-Nov-2024 |
+| 10 | Container With Most Water | Arrays | Medium | ✅ | ✅ | 10-Nov-2024 |
+| 11 | Trapping Rain Water | Arrays | Hard | ✅ | ✅ | 11-Nov-2024 |
+| 12 | Jump Game | Arrays | Medium | ✅ | ✅ | 12-Nov-2024 |
+| 13 | Jump Game II | Arrays | Medium | ✅ | ✅ | 13-Nov-2024 |
+| 14 | Gas Station | Arrays | Medium | ✅ | ✅ | 14-Nov-2024 |
+| 15 | Candy | Arrays | Hard | ✅ | ✅ | 15-Nov-2024 |
+| 16 | Rotate Array | Arrays | Medium | ✅ | ✅ | 16-Nov-2024 |
+| 17 | Set Matrix Zeroes | Arrays | Medium | ✅ | ✅ | 17-Nov-2024 |
+| 18 | Spiral Matrix | Arrays | Medium | ✅ | ✅ | 18-Nov-2024 |
+| 19 | Pascal's Triangle | Arrays | Easy | ✅ | ✅ | 19-Nov-2024 |
+| 20 | Majority Element | Arrays | Easy | ✅ | ✅ | 20-Nov-2024 |
 | 21 | Valid Anagram | Strings | Easy | ⬜ | ⬜ | — |
 | 22 | Group Anagrams | Strings | Medium | ⬜ | ⬜ | — |
 | 23 | Longest Substring Without Repeating Characters | Strings | Medium | ⬜ | ⬜ | — |
