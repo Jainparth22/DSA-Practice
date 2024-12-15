@@ -1,6 +1,6 @@
 # DSA Practice — Progress Tracker
 
-**20 / 300** solved | Started: Nov 2024 | Language: C++ and Python
+**35 / 300** solved | Started: Nov 2024 | Language: C++ and Python
 
 Update this file each time you solve a question. Mark C++ with `✅` and Python with `✅`. Use `⬜` for not done.
 
@@ -28,21 +28,21 @@ Update this file each time you solve a question. Mark C++ with `✅` and Python 
 | 18 | Spiral Matrix | Arrays | Medium | ✅ | ✅ | 18-Nov-2024 |
 | 19 | Pascal's Triangle | Arrays | Easy | ✅ | ✅ | 19-Nov-2024 |
 | 20 | Majority Element | Arrays | Easy | ✅ | ✅ | 20-Nov-2024 |
-| 21 | Valid Anagram | Strings | Easy | ⬜ | ⬜ | — |
-| 22 | Group Anagrams | Strings | Medium | ⬜ | ⬜ | — |
-| 23 | Longest Substring Without Repeating Characters | Strings | Medium | ⬜ | ⬜ | — |
-| 24 | Longest Repeating Character Replacement | Strings | Medium | ⬜ | ⬜ | — |
-| 25 | Minimum Window Substring | Strings | Hard | ⬜ | ⬜ | — |
-| 26 | Valid Parentheses | Strings | Easy | ⬜ | ⬜ | — |
-| 27 | Generate Parentheses | Strings | Medium | ⬜ | ⬜ | — |
-| 28 | Largest Rectangle in Histogram | Strings | Hard | ⬜ | ⬜ | — |
-| 29 | Encode and Decode Strings | Strings | Medium | ⬜ | ⬜ | — |
-| 30 | Palindromic Substrings | Strings | Medium | ⬜ | ⬜ | — |
-| 31 | Longest Palindromic Substring | Strings | Medium | ⬜ | ⬜ | — |
-| 32 | Valid Palindrome | Strings | Easy | ⬜ | ⬜ | — |
-| 33 | Reverse Words in a String | Strings | Medium | ⬜ | ⬜ | — |
-| 34 | String to Integer (atoi) | Strings | Medium | ⬜ | ⬜ | — |
-| 35 | Count and Say | Strings | Medium | ⬜ | ⬜ | — |
+| 21 | Valid Anagram | Strings | Easy | ✅ | ✅ | 01-Dec-2024 |
+| 22 | Group Anagrams | Strings | Medium | ✅ | ✅ | 02-Dec-2024 |
+| 23 | Longest Substring Without Repeating Characters | Strings | Medium | ✅ | ✅ | 03-Dec-2024 |
+| 24 | Longest Repeating Character Replacement | Strings | Medium | ✅ | ✅ | 04-Dec-2024 |
+| 25 | Minimum Window Substring | Strings | Hard | ✅ | ✅ | 05-Dec-2024 |
+| 26 | Valid Parentheses | Strings | Easy | ✅ | ✅ | 06-Dec-2024 |
+| 27 | Generate Parentheses | Strings | Medium | ✅ | ✅ | 07-Dec-2024 |
+| 28 | Largest Rectangle in Histogram | Strings | Hard | ✅ | ✅ | 08-Dec-2024 |
+| 29 | Encode and Decode Strings | Strings | Medium | ✅ | ✅ | 09-Dec-2024 |
+| 30 | Palindromic Substrings | Strings | Medium | ✅ | ✅ | 10-Dec-2024 |
+| 31 | Longest Palindromic Substring | Strings | Medium | ✅ | ✅ | 11-Dec-2024 |
+| 32 | Valid Palindrome | Strings | Easy | ✅ | ✅ | 12-Dec-2024 |
+| 33 | Reverse Words in a String | Strings | Medium | ✅ | ✅ | 13-Dec-2024 |
+| 34 | String to Integer (atoi) | Strings | Medium | ✅ | ✅ | 14-Dec-2024 |
+| 35 | Count and Say | Strings | Medium | ✅ | ✅ | 15-Dec-2024 |
 | 36 | Valid Palindrome | Two Pointers | Easy | ⬜ | ⬜ | — |
 | 37 | Two Sum II | Two Pointers | Medium | ⬜ | ⬜ | — |
 | 38 | 3Sum Closest | Two Pointers | Medium | ⬜ | ⬜ | — |
