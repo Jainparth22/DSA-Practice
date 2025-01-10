@@ -1,6 +1,6 @@
 # DSA Practice — Progress Tracker
 
-**35 / 300** solved | Started: Nov 2024 | Language: C++ and Python
+**45 / 300** solved | Started: Nov 2024 | Language: C++ and Python
 
 Update this file each time you solve a question. Mark C++ with `✅` and Python with `✅`. Use `⬜` for not done.
 
@@ -43,16 +43,16 @@ Update this file each time you solve a question. Mark C++ with `✅` and Python 
 | 33 | Reverse Words in a String | Strings | Medium | ✅ | ✅ | 13-Dec-2024 |
 | 34 | String to Integer (atoi) | Strings | Medium | ✅ | ✅ | 14-Dec-2024 |
 | 35 | Count and Say | Strings | Medium | ✅ | ✅ | 15-Dec-2024 |
-| 36 | Valid Palindrome | Two Pointers | Easy | ⬜ | ⬜ | — |
-| 37 | Two Sum II | Two Pointers | Medium | ⬜ | ⬜ | — |
-| 38 | 3Sum Closest | Two Pointers | Medium | ⬜ | ⬜ | — |
-| 39 | 4Sum | Two Pointers | Medium | ⬜ | ⬜ | — |
-| 40 | Remove Duplicates from Sorted Array | Two Pointers | Easy | ⬜ | ⬜ | — |
-| 41 | Remove Element | Two Pointers | Easy | ⬜ | ⬜ | — |
-| 42 | Merge Sorted Array | Two Pointers | Easy | ⬜ | ⬜ | — |
-| 43 | Move Zeroes | Two Pointers | Easy | ⬜ | ⬜ | — |
-| 44 | Squares of a Sorted Array | Two Pointers | Easy | ⬜ | ⬜ | — |
-| 45 | Sort Colors | Two Pointers | Medium | ⬜ | ⬜ | — |
+| 36 | Valid Palindrome | Two Pointers | Easy | ✅ | ✅ | 01-Jan-2025 |
+| 37 | Two Sum II | Two Pointers | Medium | ✅ | ✅ | 02-Jan-2025 |
+| 38 | 3Sum Closest | Two Pointers | Medium | ✅ | ✅ | 03-Jan-2025 |
+| 39 | 4Sum | Two Pointers | Medium | ✅ | ✅ | 04-Jan-2025 |
+| 40 | Remove Duplicates from Sorted Array | Two Pointers | Easy | ✅ | ✅ | 05-Jan-2025 |
+| 41 | Remove Element | Two Pointers | Easy | ✅ | ✅ | 06-Jan-2025 |
+| 42 | Merge Sorted Array | Two Pointers | Easy | ✅ | ✅ | 07-Jan-2025 |
+| 43 | Move Zeroes | Two Pointers | Easy | ✅ | ✅ | 08-Jan-2025 |
+| 44 | Squares of a Sorted Array | Two Pointers | Easy | ✅ | ✅ | 09-Jan-2025 |
+| 45 | Sort Colors | Two Pointers | Medium | ✅ | ✅ | 10-Jan-2025 |
 | 46 | Best Time to Buy and Sell Stock | Sliding Window | Easy | ⬜ | ⬜ | — |
 | 47 | Longest Substring Without Repeating Characters | Sliding Window | Medium | ⬜ | ⬜ | — |
 | 48 | Longest Repeating Character Replacement | Sliding Window | Medium | ⬜ | ⬜ | — |
