@@ -1,6 +1,6 @@
 # DSA Practice — Progress Tracker
 
-**45 / 300** solved | Started: Nov 2024 | Language: C++ and Python
+**55 / 300** solved | Started: Nov 2024 | Language: C++ and Python
 
 Update this file each time you solve a question. Mark C++ with `✅` and Python with `✅`. Use `⬜` for not done.
 
@@ -53,16 +53,16 @@ Update this file each time you solve a question. Mark C++ with `✅` and Python 
 | 43 | Move Zeroes | Two Pointers | Easy | ✅ | ✅ | 08-Jan-2025 |
 | 44 | Squares of a Sorted Array | Two Pointers | Easy | ✅ | ✅ | 09-Jan-2025 |
 | 45 | Sort Colors | Two Pointers | Medium | ✅ | ✅ | 10-Jan-2025 |
-| 46 | Best Time to Buy and Sell Stock | Sliding Window | Easy | ⬜ | ⬜ | — |
-| 47 | Longest Substring Without Repeating Characters | Sliding Window | Medium | ⬜ | ⬜ | — |
-| 48 | Longest Repeating Character Replacement | Sliding Window | Medium | ⬜ | ⬜ | — |
-| 49 | Permutation in String | Sliding Window | Medium | ⬜ | ⬜ | — |
-| 50 | Minimum Window Substring | Sliding Window | Hard | ⬜ | ⬜ | — |
-| 51 | Sliding Window Maximum | Sliding Window | Hard | ⬜ | ⬜ | — |
-| 52 | Minimum Size Subarray Sum | Sliding Window | Medium | ⬜ | ⬜ | — |
-| 53 | Fruit Into Baskets | Sliding Window | Medium | ⬜ | ⬜ | — |
-| 54 | Find All Anagrams in a String | Sliding Window | Medium | ⬜ | ⬜ | — |
-| 55 | Subarrays with K Different Integers | Sliding Window | Hard | ⬜ | ⬜ | — |
+| 46 | Best Time to Buy and Sell Stock | Sliding Window | Easy | ✅ | ✅ | 01-Feb-2025 |
+| 47 | Longest Substring Without Repeating Characters | Sliding Window | Medium | ✅ | ✅ | 02-Feb-2025 |
+| 48 | Longest Repeating Character Replacement | Sliding Window | Medium | ✅ | ✅ | 03-Feb-2025 |
+| 49 | Permutation in String | Sliding Window | Medium | ✅ | ✅ | 04-Feb-2025 |
+| 50 | Minimum Window Substring | Sliding Window | Hard | ✅ | ✅ | 05-Feb-2025 |
+| 51 | Sliding Window Maximum | Sliding Window | Hard | ✅ | ✅ | 06-Feb-2025 |
+| 52 | Minimum Size Subarray Sum | Sliding Window | Medium | ✅ | ✅ | 07-Feb-2025 |
+| 53 | Fruit Into Baskets | Sliding Window | Medium | ✅ | ✅ | 08-Feb-2025 |
+| 54 | Find All Anagrams in a String | Sliding Window | Medium | ✅ | ✅ | 09-Feb-2025 |
+| 55 | Subarrays with K Different Integers | Sliding Window | Hard | ✅ | ✅ | 10-Feb-2025 |
 | 56 | Valid Parentheses | Stack | Easy | ⬜ | ⬜ | — |
 | 57 | Min Stack | Stack | Medium | ⬜ | ⬜ | — |
 | 58 | Evaluate Reverse Polish Notation | Stack | Medium | ⬜ | ⬜ | — |
