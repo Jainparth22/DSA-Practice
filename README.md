@@ -6,7 +6,7 @@ Curated interview-style data structures & algorithms problems, solved in both C+
 | Metric | Value |
 |---|---|
 | Total questions | 300 |
-| Solved (C++ and Python) | 55 / 300 — see [PROGRESS.md](PROGRESS.md) |
+| Solved (C++ and Python) | 65 / 300 — see [PROGRESS.md](PROGRESS.md) |
 | Categories | 20 |
 | Languages | C++17 and Python 3 |
 

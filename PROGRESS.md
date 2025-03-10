@@ -1,6 +1,6 @@
 # DSA Practice — Progress Tracker
 
-**55 / 300** solved | Started: Nov 2024 | Language: C++ and Python
+**65 / 300** solved | Started: Nov 2024 | Language: C++ and Python
 
 Update this file each time you solve a question. Mark C++ with `✅` and Python with `✅`. Use `⬜` for not done.
 
@@ -63,16 +63,16 @@ Update this file each time you solve a question. Mark C++ with `✅` and Python 
 | 53 | Fruit Into Baskets | Sliding Window | Medium | ✅ | ✅ | 08-Feb-2025 |
 | 54 | Find All Anagrams in a String | Sliding Window | Medium | ✅ | ✅ | 09-Feb-2025 |
 | 55 | Subarrays with K Different Integers | Sliding Window | Hard | ✅ | ✅ | 10-Feb-2025 |
-| 56 | Valid Parentheses | Stack | Easy | ⬜ | ⬜ | — |
-| 57 | Min Stack | Stack | Medium | ⬜ | ⬜ | — |
-| 58 | Evaluate Reverse Polish Notation | Stack | Medium | ⬜ | ⬜ | — |
-| 59 | Generate Parentheses | Stack | Medium | ⬜ | ⬜ | — |
-| 60 | Daily Temperatures | Stack | Medium | ⬜ | ⬜ | — |
-| 61 | Car Fleet | Stack | Medium | ⬜ | ⬜ | — |
-| 62 | Largest Rectangle in Histogram | Stack | Hard | ⬜ | ⬜ | — |
-| 63 | Next Greater Element I | Stack | Easy | ⬜ | ⬜ | — |
-| 64 | Next Greater Element II | Stack | Medium | ⬜ | ⬜ | — |
-| 65 | Asteroid Collision | Stack | Medium | ⬜ | ⬜ | — |
+| 56 | Valid Parentheses | Stack | Easy | ✅ | ✅ | 01-Mar-2025 |
+| 57 | Min Stack | Stack | Medium | ✅ | ✅ | 02-Mar-2025 |
+| 58 | Evaluate Reverse Polish Notation | Stack | Medium | ✅ | ✅ | 03-Mar-2025 |
+| 59 | Generate Parentheses | Stack | Medium | ✅ | ✅ | 04-Mar-2025 |
+| 60 | Daily Temperatures | Stack | Medium | ✅ | ✅ | 05-Mar-2025 |
+| 61 | Car Fleet | Stack | Medium | ✅ | ✅ | 06-Mar-2025 |
+| 62 | Largest Rectangle in Histogram | Stack | Hard | ✅ | ✅ | 07-Mar-2025 |
+| 63 | Next Greater Element I | Stack | Easy | ✅ | ✅ | 08-Mar-2025 |
+| 64 | Next Greater Element II | Stack | Medium | ✅ | ✅ | 09-Mar-2025 |
+| 65 | Asteroid Collision | Stack | Medium | ✅ | ✅ | 10-Mar-2025 |
 | 66 | Reverse Linked List | Linked List | Easy | ⬜ | ⬜ | — |
 | 67 | Merge Two Sorted Lists | Linked List | Easy | ⬜ | ⬜ | — |
 | 68 | Reorder List | Linked List | Medium | ⬜ | ⬜ | — |
