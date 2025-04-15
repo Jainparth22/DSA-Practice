@@ -1,6 +1,6 @@
 # DSA Practice — Progress Tracker
 
-**65 / 300** solved | Started: Nov 2024 | Language: C++ and Python
+**80 / 300** solved | Started: Nov 2024 | Language: C++ and Python
 
 Update this file each time you solve a question. Mark C++ with `✅` and Python with `✅`. Use `⬜` for not done.
 
@@ -73,21 +73,21 @@ Update this file each time you solve a question. Mark C++ with `✅` and Python 
 | 63 | Next Greater Element I | Stack | Easy | ✅ | ✅ | 08-Mar-2025 |
 | 64 | Next Greater Element II | Stack | Medium | ✅ | ✅ | 09-Mar-2025 |
 | 65 | Asteroid Collision | Stack | Medium | ✅ | ✅ | 10-Mar-2025 |
-| 66 | Reverse Linked List | Linked List | Easy | ⬜ | ⬜ | — |
-| 67 | Merge Two Sorted Lists | Linked List | Easy | ⬜ | ⬜ | — |
-| 68 | Reorder List | Linked List | Medium | ⬜ | ⬜ | — |
-| 69 | Remove Nth Node From End | Linked List | Medium | ⬜ | ⬜ | — |
-| 70 | Copy List with Random Pointer | Linked List | Medium | ⬜ | ⬜ | — |
-| 71 | Add Two Numbers | Linked List | Medium | ⬜ | ⬜ | — |
-| 72 | Linked List Cycle | Linked List | Easy | ⬜ | ⬜ | — |
-| 73 | Find the Duplicate Number | Linked List | Medium | ⬜ | ⬜ | — |
-| 74 | LRU Cache | Linked List | Medium | ⬜ | ⬜ | — |
-| 75 | Merge K Sorted Lists | Linked List | Hard | ⬜ | ⬜ | — |
-| 76 | Reverse Nodes in k-Group | Linked List | Hard | ⬜ | ⬜ | — |
-| 77 | Swap Nodes in Pairs | Linked List | Medium | ⬜ | ⬜ | — |
-| 78 | Palindrome Linked List | Linked List | Easy | ⬜ | ⬜ | — |
-| 79 | Intersection of Two Linked Lists | Linked List | Easy | ⬜ | ⬜ | — |
-| 80 | Middle of the Linked List | Linked List | Easy | ⬜ | ⬜ | — |
+| 66 | Reverse Linked List | Linked List | Easy | ✅ | ✅ | 01-Apr-2025 |
+| 67 | Merge Two Sorted Lists | Linked List | Easy | ✅ | ✅ | 02-Apr-2025 |
+| 68 | Reorder List | Linked List | Medium | ✅ | ✅ | 03-Apr-2025 |
+| 69 | Remove Nth Node From End | Linked List | Medium | ✅ | ✅ | 04-Apr-2025 |
+| 70 | Copy List with Random Pointer | Linked List | Medium | ✅ | ✅ | 05-Apr-2025 |
+| 71 | Add Two Numbers | Linked List | Medium | ✅ | ✅ | 06-Apr-2025 |
+| 72 | Linked List Cycle | Linked List | Easy | ✅ | ✅ | 07-Apr-2025 |
+| 73 | Find the Duplicate Number | Linked List | Medium | ✅ | ✅ | 08-Apr-2025 |
+| 74 | LRU Cache | Linked List | Medium | ✅ | ✅ | 09-Apr-2025 |
+| 75 | Merge K Sorted Lists | Linked List | Hard | ✅ | ✅ | 10-Apr-2025 |
+| 76 | Reverse Nodes in k-Group | Linked List | Hard | ✅ | ✅ | 11-Apr-2025 |
+| 77 | Swap Nodes in Pairs | Linked List | Medium | ✅ | ✅ | 12-Apr-2025 |
+| 78 | Palindrome Linked List | Linked List | Easy | ✅ | ✅ | 13-Apr-2025 |
+| 79 | Intersection of Two Linked Lists | Linked List | Easy | ✅ | ✅ | 14-Apr-2025 |
+| 80 | Middle of the Linked List | Linked List | Easy | ✅ | ✅ | 15-Apr-2025 |
 | 81 | Binary Search | Binary Search | Easy | ⬜ | ⬜ | — |
 | 82 | Search a 2D Matrix | Binary Search | Medium | ⬜ | ⬜ | — |
 | 83 | Koko Eating Bananas | Binary Search | Medium | ⬜ | ⬜ | — |
