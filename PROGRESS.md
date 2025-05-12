@@ -1,6 +1,6 @@
 # DSA Practice — Progress Tracker
 
-**80 / 300** solved | Started: Nov 2024 | Language: C++ and Python
+**92 / 300** solved | Started: Nov 2024 | Language: C++ and Python
 
 Update this file each time you solve a question. Mark C++ with `✅` and Python with `✅`. Use `⬜` for not done.
 
@@ -88,18 +88,18 @@ Update this file each time you solve a question. Mark C++ with `✅` and Python 
 | 78 | Palindrome Linked List | Linked List | Easy | ✅ | ✅ | 13-Apr-2025 |
 | 79 | Intersection of Two Linked Lists | Linked List | Easy | ✅ | ✅ | 14-Apr-2025 |
 | 80 | Middle of the Linked List | Linked List | Easy | ✅ | ✅ | 15-Apr-2025 |
-| 81 | Binary Search | Binary Search | Easy | ⬜ | ⬜ | — |
-| 82 | Search a 2D Matrix | Binary Search | Medium | ⬜ | ⬜ | — |
-| 83 | Koko Eating Bananas | Binary Search | Medium | ⬜ | ⬜ | — |
-| 84 | Find Minimum in Rotated Sorted Array | Binary Search | Medium | ⬜ | ⬜ | — |
-| 85 | Search in Rotated Sorted Array | Binary Search | Medium | ⬜ | ⬜ | — |
-| 86 | Time Based Key-Value Store | Binary Search | Medium | ⬜ | ⬜ | — |
-| 87 | Find Peak Element | Binary Search | Medium | ⬜ | ⬜ | — |
-| 88 | First Bad Version | Binary Search | Easy | ⬜ | ⬜ | — |
-| 89 | Search Insert Position | Binary Search | Easy | ⬜ | ⬜ | — |
-| 90 | Median of Two Sorted Arrays | Binary Search | Hard | ⬜ | ⬜ | — |
-| 91 | Find First and Last Position | Binary Search | Medium | ⬜ | ⬜ | — |
-| 92 | Sqrt(x) | Binary Search | Easy | ⬜ | ⬜ | — |
+| 81 | Binary Search | Binary Search | Easy | ✅ | ✅ | 01-May-2025 |
+| 82 | Search a 2D Matrix | Binary Search | Medium | ✅ | ✅ | 02-May-2025 |
+| 83 | Koko Eating Bananas | Binary Search | Medium | ✅ | ✅ | 03-May-2025 |
+| 84 | Find Minimum in Rotated Sorted Array | Binary Search | Medium | ✅ | ✅ | 04-May-2025 |
+| 85 | Search in Rotated Sorted Array | Binary Search | Medium | ✅ | ✅ | 05-May-2025 |
+| 86 | Time Based Key-Value Store | Binary Search | Medium | ✅ | ✅ | 06-May-2025 |
+| 87 | Find Peak Element | Binary Search | Medium | ✅ | ✅ | 07-May-2025 |
+| 88 | First Bad Version | Binary Search | Easy | ✅ | ✅ | 08-May-2025 |
+| 89 | Search Insert Position | Binary Search | Easy | ✅ | ✅ | 09-May-2025 |
+| 90 | Median of Two Sorted Arrays | Binary Search | Hard | ✅ | ✅ | 10-May-2025 |
+| 91 | Find First and Last Position | Binary Search | Medium | ✅ | ✅ | 11-May-2025 |
+| 92 | Sqrt(x) | Binary Search | Easy | ✅ | ✅ | 12-May-2025 |
 | 93 | Invert Binary Tree | Trees | Easy | ⬜ | ⬜ | — |
 | 94 | Maximum Depth of Binary Tree | Trees | Easy | ⬜ | ⬜ | — |
 | 95 | Diameter of Binary Tree | Trees | Easy | ⬜ | ⬜ | — |
