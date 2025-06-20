@@ -1,6 +1,6 @@
 # DSA Practice — Progress Tracker
 
-**92 / 300** solved | Started: Nov 2024 | Language: C++ and Python
+**112 / 300** solved | Started: Nov 2024 | Language: C++ and Python
 
 Update this file each time you solve a question. Mark C++ with `✅` and Python with `✅`. Use `⬜` for not done.
 
@@ -100,26 +100,26 @@ Update this file each time you solve a question. Mark C++ with `✅` and Python 
 | 90 | Median of Two Sorted Arrays | Binary Search | Hard | ✅ | ✅ | 10-May-2025 |
 | 91 | Find First and Last Position | Binary Search | Medium | ✅ | ✅ | 11-May-2025 |
 | 92 | Sqrt(x) | Binary Search | Easy | ✅ | ✅ | 12-May-2025 |
-| 93 | Invert Binary Tree | Trees | Easy | ⬜ | ⬜ | — |
-| 94 | Maximum Depth of Binary Tree | Trees | Easy | ⬜ | ⬜ | — |
-| 95 | Diameter of Binary Tree | Trees | Easy | ⬜ | ⬜ | — |
-| 96 | Balanced Binary Tree | Trees | Easy | ⬜ | ⬜ | — |
-| 97 | Same Tree | Trees | Easy | ⬜ | ⬜ | — |
-| 98 | Subtree of Another Tree | Trees | Easy | ⬜ | ⬜ | — |
-| 99 | Lowest Common Ancestor | Trees | Medium | ⬜ | ⬜ | — |
-| 100 | Binary Tree Level Order Traversal | Trees | Medium | ⬜ | ⬜ | — |
-| 101 | Binary Tree Right Side View | Trees | Medium | ⬜ | ⬜ | — |
-| 102 | Count Good Nodes in Binary Tree | Trees | Medium | ⬜ | ⬜ | — |
-| 103 | Validate Binary Search Tree | Trees | Medium | ⬜ | ⬜ | — |
-| 104 | Kth Smallest Element in a BST | Trees | Medium | ⬜ | ⬜ | — |
-| 105 | Construct Binary Tree from Preorder and Inorder | Trees | Medium | ⬜ | ⬜ | — |
-| 106 | Binary Tree Maximum Path Sum | Trees | Hard | ⬜ | ⬜ | — |
-| 107 | Serialize and Deserialize Binary Tree | Trees | Hard | ⬜ | ⬜ | — |
-| 108 | Path Sum | Trees | Easy | ⬜ | ⬜ | — |
-| 109 | Symmetric Tree | Trees | Easy | ⬜ | ⬜ | — |
-| 110 | Populating Next Right Pointers | Trees | Medium | ⬜ | ⬜ | — |
-| 111 | Flatten Binary Tree to Linked List | Trees | Medium | ⬜ | ⬜ | — |
-| 112 | Sum Root to Leaf Numbers | Trees | Medium | ⬜ | ⬜ | — |
+| 93 | Invert Binary Tree | Trees | Easy | ✅ | ✅ | 01-Jun-2025 |
+| 94 | Maximum Depth of Binary Tree | Trees | Easy | ✅ | ✅ | 02-Jun-2025 |
+| 95 | Diameter of Binary Tree | Trees | Easy | ✅ | ✅ | 03-Jun-2025 |
+| 96 | Balanced Binary Tree | Trees | Easy | ✅ | ✅ | 04-Jun-2025 |
+| 97 | Same Tree | Trees | Easy | ✅ | ✅ | 05-Jun-2025 |
+| 98 | Subtree of Another Tree | Trees | Easy | ✅ | ✅ | 06-Jun-2025 |
+| 99 | Lowest Common Ancestor | Trees | Medium | ✅ | ✅ | 07-Jun-2025 |
+| 100 | Binary Tree Level Order Traversal | Trees | Medium | ✅ | ✅ | 08-Jun-2025 |
+| 101 | Binary Tree Right Side View | Trees | Medium | ✅ | ✅ | 09-Jun-2025 |
+| 102 | Count Good Nodes in Binary Tree | Trees | Medium | ✅ | ✅ | 10-Jun-2025 |
+| 103 | Validate Binary Search Tree | Trees | Medium | ✅ | ✅ | 11-Jun-2025 |
+| 104 | Kth Smallest Element in a BST | Trees | Medium | ✅ | ✅ | 12-Jun-2025 |
+| 105 | Construct Binary Tree from Preorder and Inorder | Trees | Medium | ✅ | ✅ | 13-Jun-2025 |
+| 106 | Binary Tree Maximum Path Sum | Trees | Hard | ✅ | ✅ | 14-Jun-2025 |
+| 107 | Serialize and Deserialize Binary Tree | Trees | Hard | ✅ | ✅ | 15-Jun-2025 |
+| 108 | Path Sum | Trees | Easy | ✅ | ✅ | 16-Jun-2025 |
+| 109 | Symmetric Tree | Trees | Easy | ✅ | ✅ | 17-Jun-2025 |
+| 110 | Populating Next Right Pointers | Trees | Medium | ✅ | ✅ | 18-Jun-2025 |
+| 111 | Flatten Binary Tree to Linked List | Trees | Medium | ✅ | ✅ | 19-Jun-2025 |
+| 112 | Sum Root to Leaf Numbers | Trees | Medium | ✅ | ✅ | 20-Jun-2025 |
 | 113 | Number of Islands | Graphs | Medium | ⬜ | ⬜ | — |
 | 114 | Max Area of Island | Graphs | Medium | ⬜ | ⬜ | — |
 | 115 | Clone Graph | Graphs | Medium | ⬜ | ⬜ | — |
