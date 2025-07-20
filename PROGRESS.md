@@ -1,6 +1,6 @@
 # DSA Practice — Progress Tracker
 
-**112 / 300** solved | Started: Nov 2024 | Language: C++ and Python
+**132 / 300** solved | Started: Nov 2024 | Language: C++ and Python
 
 Update this file each time you solve a question. Mark C++ with `✅` and Python with `✅`. Use `⬜` for not done.
 
@@ -120,26 +120,26 @@ Update this file each time you solve a question. Mark C++ with `✅` and Python 
 | 110 | Populating Next Right Pointers | Trees | Medium | ✅ | ✅ | 18-Jun-2025 |
 | 111 | Flatten Binary Tree to Linked List | Trees | Medium | ✅ | ✅ | 19-Jun-2025 |
 | 112 | Sum Root to Leaf Numbers | Trees | Medium | ✅ | ✅ | 20-Jun-2025 |
-| 113 | Number of Islands | Graphs | Medium | ⬜ | ⬜ | — |
-| 114 | Max Area of Island | Graphs | Medium | ⬜ | ⬜ | — |
-| 115 | Clone Graph | Graphs | Medium | ⬜ | ⬜ | — |
-| 116 | Walls and Gates | Graphs | Medium | ⬜ | ⬜ | — |
-| 117 | Rotting Oranges | Graphs | Medium | ⬜ | ⬜ | — |
-| 118 | Pacific Atlantic Water Flow | Graphs | Medium | ⬜ | ⬜ | — |
-| 119 | Surrounded Regions | Graphs | Medium | ⬜ | ⬜ | — |
-| 120 | Course Schedule | Graphs | Medium | ⬜ | ⬜ | — |
-| 121 | Course Schedule II | Graphs | Medium | ⬜ | ⬜ | — |
-| 122 | Number of Connected Components | Graphs | Medium | ⬜ | ⬜ | — |
-| 123 | Graph Valid Tree | Graphs | Medium | ⬜ | ⬜ | — |
-| 124 | Redundant Connection | Graphs | Medium | ⬜ | ⬜ | — |
-| 125 | Word Ladder | Graphs | Hard | ⬜ | ⬜ | — |
-| 126 | Alien Dictionary | Graphs | Hard | ⬜ | ⬜ | — |
-| 127 | Cheapest Flights Within K Stops | Graphs | Medium | ⬜ | ⬜ | — |
-| 128 | Network Delay Time | Graphs | Medium | ⬜ | ⬜ | — |
-| 129 | Swim in Rising Water | Graphs | Hard | ⬜ | ⬜ | — |
-| 130 | Minimum Cost to Connect All Points | Graphs | Medium | ⬜ | ⬜ | — |
-| 131 | Find the City | Graphs | Medium | ⬜ | ⬜ | — |
-| 132 | All Paths From Source to Target | Graphs | Medium | ⬜ | ⬜ | — |
+| 113 | Number of Islands | Graphs | Medium | ✅ | ✅ | 01-Jul-2025 |
+| 114 | Max Area of Island | Graphs | Medium | ✅ | ✅ | 02-Jul-2025 |
+| 115 | Clone Graph | Graphs | Medium | ✅ | ✅ | 03-Jul-2025 |
+| 116 | Walls and Gates | Graphs | Medium | ✅ | ✅ | 04-Jul-2025 |
+| 117 | Rotting Oranges | Graphs | Medium | ✅ | ✅ | 05-Jul-2025 |
+| 118 | Pacific Atlantic Water Flow | Graphs | Medium | ✅ | ✅ | 06-Jul-2025 |
+| 119 | Surrounded Regions | Graphs | Medium | ✅ | ✅ | 07-Jul-2025 |
+| 120 | Course Schedule | Graphs | Medium | ✅ | ✅ | 08-Jul-2025 |
+| 121 | Course Schedule II | Graphs | Medium | ✅ | ✅ | 09-Jul-2025 |
+| 122 | Number of Connected Components | Graphs | Medium | ✅ | ✅ | 10-Jul-2025 |
+| 123 | Graph Valid Tree | Graphs | Medium | ✅ | ✅ | 11-Jul-2025 |
+| 124 | Redundant Connection | Graphs | Medium | ✅ | ✅ | 12-Jul-2025 |
+| 125 | Word Ladder | Graphs | Hard | ✅ | ✅ | 13-Jul-2025 |
+| 126 | Alien Dictionary | Graphs | Hard | ✅ | ✅ | 14-Jul-2025 |
+| 127 | Cheapest Flights Within K Stops | Graphs | Medium | ✅ | ✅ | 15-Jul-2025 |
+| 128 | Network Delay Time | Graphs | Medium | ✅ | ✅ | 16-Jul-2025 |
+| 129 | Swim in Rising Water | Graphs | Hard | ✅ | ✅ | 17-Jul-2025 |
+| 130 | Minimum Cost to Connect All Points | Graphs | Medium | ✅ | ✅ | 18-Jul-2025 |
+| 131 | Find the City | Graphs | Medium | ✅ | ✅ | 19-Jul-2025 |
+| 132 | All Paths From Source to Target | Graphs | Medium | ✅ | ✅ | 20-Jul-2025 |
 | 133 | Climbing Stairs | DP | Easy | ⬜ | ⬜ | — |
 | 134 | Min Cost Climbing Stairs | DP | Easy | ⬜ | ⬜ | — |
 | 135 | House Robber | DP | Medium | ⬜ | ⬜ | — |
