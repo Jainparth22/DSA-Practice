@@ -1,0 +1,13 @@
+# LC#10 — Regular Expression Matching
+# Difficulty: Hard | Pattern: 2D DP | Time: O(mn) | Space: O(mn)
+def is_match(s, p):
+    m, n = len(s), len(p); dp = [[False] * (n + 1) for _ in range(m + 1)]; dp[0][0] = True
+    for j in range(2, n + 1):
+        if p[j-1] == "*": dp[0][j] = dp[0][j-2]
+    for i in range(1, m + 1):
+        for j in range(1, n + 1):
+            if p[j-1] == "*": dp[i][j] = dp[i][j-2] or (p[j-2] in (".", s[i-1]) and dp[i-1][j])
+            else: dp[i][j] = p[j-1] in (".", s[i-1]) and dp[i-1][j-1]
+    return dp[m][n]
+
+assert is_match("aab", "c*a*b") and not is_match("mississippi", "mis*is*p*.")
