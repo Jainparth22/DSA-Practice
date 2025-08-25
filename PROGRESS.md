@@ -1,6 +1,6 @@
 # DSA Practice — Progress Tracker
 
-**132 / 300** solved | Started: Nov 2024 | Language: C++ and Python
+**157 / 300** solved | Started: Nov 2024 | Language: C++ and Python
 
 Update this file each time you solve a question. Mark C++ with `✅` and Python with `✅`. Use `⬜` for not done.
 
@@ -140,31 +140,31 @@ Update this file each time you solve a question. Mark C++ with `✅` and Python 
 | 130 | Minimum Cost to Connect All Points | Graphs | Medium | ✅ | ✅ | 18-Jul-2025 |
 | 131 | Find the City | Graphs | Medium | ✅ | ✅ | 19-Jul-2025 |
 | 132 | All Paths From Source to Target | Graphs | Medium | ✅ | ✅ | 20-Jul-2025 |
-| 133 | Climbing Stairs | DP | Easy | ⬜ | ⬜ | — |
-| 134 | Min Cost Climbing Stairs | DP | Easy | ⬜ | ⬜ | — |
-| 135 | House Robber | DP | Medium | ⬜ | ⬜ | — |
-| 136 | House Robber II | DP | Medium | ⬜ | ⬜ | — |
-| 137 | Longest Palindromic Substring | DP | Medium | ⬜ | ⬜ | — |
-| 138 | Palindromic Substrings | DP | Medium | ⬜ | ⬜ | — |
-| 139 | Decode Ways | DP | Medium | ⬜ | ⬜ | — |
-| 140 | Coin Change | DP | Medium | ⬜ | ⬜ | — |
-| 141 | Maximum Product Subarray | DP | Medium | ⬜ | ⬜ | — |
-| 142 | Word Break | DP | Medium | ⬜ | ⬜ | — |
-| 143 | Longest Increasing Subsequence | DP | Medium | ⬜ | ⬜ | — |
-| 144 | Partition Equal Subset Sum | DP | Medium | ⬜ | ⬜ | — |
-| 145 | Target Sum | DP | Medium | ⬜ | ⬜ | — |
-| 146 | Interleaving String | DP | Hard | ⬜ | ⬜ | — |
-| 147 | Unique Paths | DP | Medium | ⬜ | ⬜ | — |
-| 148 | Unique Paths II | DP | Medium | ⬜ | ⬜ | — |
-| 149 | Longest Common Subsequence | DP | Medium | ⬜ | ⬜ | — |
-| 150 | Edit Distance | DP | Hard | ⬜ | ⬜ | — |
-| 151 | Distinct Subsequences | DP | Hard | ⬜ | ⬜ | — |
-| 152 | Regular Expression Matching | DP | Hard | ⬜ | ⬜ | — |
-| 153 | Wildcard Matching | DP | Hard | ⬜ | ⬜ | — |
-| 154 | Jump Game | DP | Medium | ⬜ | ⬜ | — |
-| 155 | Jump Game II | DP | Medium | ⬜ | ⬜ | — |
-| 156 | Best Time to Buy/Sell with Cooldown | DP | Medium | ⬜ | ⬜ | — |
-| 157 | Best Time to Buy/Sell with Fee | DP | Medium | ⬜ | ⬜ | — |
+| 133 | Climbing Stairs | DP | Easy | ✅ | ✅ | 01-Aug-2025 |
+| 134 | Min Cost Climbing Stairs | DP | Easy | ✅ | ✅ | 02-Aug-2025 |
+| 135 | House Robber | DP | Medium | ✅ | ✅ | 03-Aug-2025 |
+| 136 | House Robber II | DP | Medium | ✅ | ✅ | 04-Aug-2025 |
+| 137 | Longest Palindromic Substring | DP | Medium | ✅ | ✅ | 05-Aug-2025 |
+| 138 | Palindromic Substrings | DP | Medium | ✅ | ✅ | 06-Aug-2025 |
+| 139 | Decode Ways | DP | Medium | ✅ | ✅ | 07-Aug-2025 |
+| 140 | Coin Change | DP | Medium | ✅ | ✅ | 08-Aug-2025 |
+| 141 | Maximum Product Subarray | DP | Medium | ✅ | ✅ | 09-Aug-2025 |
+| 142 | Word Break | DP | Medium | ✅ | ✅ | 10-Aug-2025 |
+| 143 | Longest Increasing Subsequence | DP | Medium | ✅ | ✅ | 11-Aug-2025 |
+| 144 | Partition Equal Subset Sum | DP | Medium | ✅ | ✅ | 12-Aug-2025 |
+| 145 | Target Sum | DP | Medium | ✅ | ✅ | 13-Aug-2025 |
+| 146 | Interleaving String | DP | Hard | ✅ | ✅ | 14-Aug-2025 |
+| 147 | Unique Paths | DP | Medium | ✅ | ✅ | 15-Aug-2025 |
+| 148 | Unique Paths II | DP | Medium | ✅ | ✅ | 16-Aug-2025 |
+| 149 | Longest Common Subsequence | DP | Medium | ✅ | ✅ | 17-Aug-2025 |
+| 150 | Edit Distance | DP | Hard | ✅ | ✅ | 18-Aug-2025 |
+| 151 | Distinct Subsequences | DP | Hard | ✅ | ✅ | 19-Aug-2025 |
+| 152 | Regular Expression Matching | DP | Hard | ✅ | ✅ | 20-Aug-2025 |
+| 153 | Wildcard Matching | DP | Hard | ✅ | ✅ | 21-Aug-2025 |
+| 154 | Jump Game | DP | Medium | ✅ | ✅ | 22-Aug-2025 |
+| 155 | Jump Game II | DP | Medium | ✅ | ✅ | 23-Aug-2025 |
+| 156 | Best Time to Buy/Sell with Cooldown | DP | Medium | ✅ | ✅ | 24-Aug-2025 |
+| 157 | Best Time to Buy/Sell with Fee | DP | Medium | ✅ | ✅ | 25-Aug-2025 |
 | 158 | Subsets | Backtracking | Medium | ⬜ | ⬜ | — |
 | 159 | Subsets II | Backtracking | Medium | ⬜ | ⬜ | — |
 | 160 | Combination Sum | Backtracking | Medium | ⬜ | ⬜ | — |
