@@ -1,6 +1,6 @@
 # DSA Practice — Progress Tracker
 
-**157 / 300** solved | Started: Nov 2024 | Language: C++ and Python
+**169 / 300** solved | Started: Nov 2024 | Language: C++ and Python
 
 Update this file each time you solve a question. Mark C++ with `✅` and Python with `✅`. Use `⬜` for not done.
 
@@ -165,18 +165,18 @@ Update this file each time you solve a question. Mark C++ with `✅` and Python 
 | 155 | Jump Game II | DP | Medium | ✅ | ✅ | 23-Aug-2025 |
 | 156 | Best Time to Buy/Sell with Cooldown | DP | Medium | ✅ | ✅ | 24-Aug-2025 |
 | 157 | Best Time to Buy/Sell with Fee | DP | Medium | ✅ | ✅ | 25-Aug-2025 |
-| 158 | Subsets | Backtracking | Medium | ⬜ | ⬜ | — |
-| 159 | Subsets II | Backtracking | Medium | ⬜ | ⬜ | — |
-| 160 | Combination Sum | Backtracking | Medium | ⬜ | ⬜ | — |
-| 161 | Combination Sum II | Backtracking | Medium | ⬜ | ⬜ | — |
-| 162 | Permutations | Backtracking | Medium | ⬜ | ⬜ | — |
-| 163 | Permutations II | Backtracking | Medium | ⬜ | ⬜ | — |
-| 164 | Word Search | Backtracking | Medium | ⬜ | ⬜ | — |
-| 165 | Palindrome Partitioning | Backtracking | Medium | ⬜ | ⬜ | — |
-| 166 | Letter Combinations of Phone Number | Backtracking | Medium | ⬜ | ⬜ | — |
-| 167 | N-Queens | Backtracking | Hard | ⬜ | ⬜ | — |
-| 168 | Sudoku Solver | Backtracking | Hard | ⬜ | ⬜ | — |
-| 169 | Restore IP Addresses | Backtracking | Medium | ⬜ | ⬜ | — |
+| 158 | Subsets | Backtracking | Medium | ✅ | ✅ | 01-Sep-2025 |
+| 159 | Subsets II | Backtracking | Medium | ✅ | ✅ | 02-Sep-2025 |
+| 160 | Combination Sum | Backtracking | Medium | ✅ | ✅ | 03-Sep-2025 |
+| 161 | Combination Sum II | Backtracking | Medium | ✅ | ✅ | 04-Sep-2025 |
+| 162 | Permutations | Backtracking | Medium | ✅ | ✅ | 05-Sep-2025 |
+| 163 | Permutations II | Backtracking | Medium | ✅ | ✅ | 06-Sep-2025 |
+| 164 | Word Search | Backtracking | Medium | ✅ | ✅ | 07-Sep-2025 |
+| 165 | Palindrome Partitioning | Backtracking | Medium | ✅ | ✅ | 08-Sep-2025 |
+| 166 | Letter Combinations of Phone Number | Backtracking | Medium | ✅ | ✅ | 09-Sep-2025 |
+| 167 | N-Queens | Backtracking | Hard | ✅ | ✅ | 10-Sep-2025 |
+| 168 | Sudoku Solver | Backtracking | Hard | ✅ | ✅ | 11-Sep-2025 |
+| 169 | Restore IP Addresses | Backtracking | Medium | ✅ | ✅ | 12-Sep-2025 |
 | 170 | Kth Largest Element in a Stream | Heap | Easy | ⬜ | ⬜ | — |
 | 171 | Last Stone Weight | Heap | Easy | ⬜ | ⬜ | — |
 | 172 | K Closest Points to Origin | Heap | Medium | ⬜ | ⬜ | — |
