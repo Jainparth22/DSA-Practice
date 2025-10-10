@@ -1,6 +1,6 @@
 # DSA Practice — Progress Tracker
 
-**169 / 300** solved | Started: Nov 2024 | Language: C++ and Python
+**179 / 300** solved | Started: Nov 2024 | Language: C++ and Python
 
 Update this file each time you solve a question. Mark C++ with `✅` and Python with `✅`. Use `⬜` for not done.
 
@@ -177,16 +177,16 @@ Update this file each time you solve a question. Mark C++ with `✅` and Python 
 | 167 | N-Queens | Backtracking | Hard | ✅ | ✅ | 10-Sep-2025 |
 | 168 | Sudoku Solver | Backtracking | Hard | ✅ | ✅ | 11-Sep-2025 |
 | 169 | Restore IP Addresses | Backtracking | Medium | ✅ | ✅ | 12-Sep-2025 |
-| 170 | Kth Largest Element in a Stream | Heap | Easy | ⬜ | ⬜ | — |
-| 171 | Last Stone Weight | Heap | Easy | ⬜ | ⬜ | — |
-| 172 | K Closest Points to Origin | Heap | Medium | ⬜ | ⬜ | — |
-| 173 | Kth Largest Element in an Array | Heap | Medium | ⬜ | ⬜ | — |
-| 174 | Task Scheduler | Heap | Medium | ⬜ | ⬜ | — |
-| 175 | Design Twitter | Heap | Medium | ⬜ | ⬜ | — |
-| 176 | Find Median from Data Stream | Heap | Hard | ⬜ | ⬜ | — |
-| 177 | IPO | Heap | Hard | ⬜ | ⬜ | — |
-| 178 | Merge K Sorted Lists | Heap | Hard | ⬜ | ⬜ | — |
-| 179 | Top K Frequent Elements | Heap | Medium | ⬜ | ⬜ | — |
+| 170 | Kth Largest Element in a Stream | Heap | Easy | ✅ | ✅ | 01-Oct-2025 |
+| 171 | Last Stone Weight | Heap | Easy | ✅ | ✅ | 02-Oct-2025 |
+| 172 | K Closest Points to Origin | Heap | Medium | ✅ | ✅ | 03-Oct-2025 |
+| 173 | Kth Largest Element in an Array | Heap | Medium | ✅ | ✅ | 04-Oct-2025 |
+| 174 | Task Scheduler | Heap | Medium | ✅ | ✅ | 05-Oct-2025 |
+| 175 | Design Twitter | Heap | Medium | ✅ | ✅ | 06-Oct-2025 |
+| 176 | Find Median from Data Stream | Heap | Hard | ✅ | ✅ | 07-Oct-2025 |
+| 177 | IPO | Heap | Hard | ✅ | ✅ | 08-Oct-2025 |
+| 178 | Merge K Sorted Lists | Heap | Hard | ✅ | ✅ | 09-Oct-2025 |
+| 179 | Top K Frequent Elements | Heap | Medium | ✅ | ✅ | 10-Oct-2025 |
 | 180 | Two Sum | Hashing | Easy | ⬜ | ⬜ | — |
 | 181 | Valid Anagram | Hashing | Easy | ⬜ | ⬜ | — |
 | 182 | Group Anagrams | Hashing | Medium | ⬜ | ⬜ | — |
