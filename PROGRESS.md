@@ -1,6 +1,6 @@
 # DSA Practice — Progress Tracker
 
-**179 / 300** solved | Started: Nov 2024 | Language: C++ and Python
+**189 / 300** solved | Started: Nov 2024 | Language: C++ and Python
 
 Update this file each time you solve a question. Mark C++ with `✅` and Python with `✅`. Use `⬜` for not done.
 
@@ -187,16 +187,16 @@ Update this file each time you solve a question. Mark C++ with `✅` and Python 
 | 177 | IPO | Heap | Hard | ✅ | ✅ | 08-Oct-2025 |
 | 178 | Merge K Sorted Lists | Heap | Hard | ✅ | ✅ | 09-Oct-2025 |
 | 179 | Top K Frequent Elements | Heap | Medium | ✅ | ✅ | 10-Oct-2025 |
-| 180 | Two Sum | Hashing | Easy | ⬜ | ⬜ | — |
-| 181 | Valid Anagram | Hashing | Easy | ⬜ | ⬜ | — |
-| 182 | Group Anagrams | Hashing | Medium | ⬜ | ⬜ | — |
-| 183 | Top K Frequent Elements | Hashing | Medium | ⬜ | ⬜ | — |
-| 184 | Encode and Decode TinyURL | Hashing | Medium | ⬜ | ⬜ | — |
-| 185 | Design HashMap | Hashing | Easy | ⬜ | ⬜ | — |
-| 186 | Subarray Sum Equals K | Hashing | Medium | ⬜ | ⬜ | — |
-| 187 | Longest Consecutive Sequence | Hashing | Medium | ⬜ | ⬜ | — |
-| 188 | 4Sum II | Hashing | Medium | ⬜ | ⬜ | — |
-| 189 | Ransom Note | Hashing | Easy | ⬜ | ⬜ | — |
+| 180 | Two Sum | Hashing | Easy | ✅ | ✅ | 01-Nov-2025 |
+| 181 | Valid Anagram | Hashing | Easy | ✅ | ✅ | 02-Nov-2025 |
+| 182 | Group Anagrams | Hashing | Medium | ✅ | ✅ | 03-Nov-2025 |
+| 183 | Top K Frequent Elements | Hashing | Medium | ✅ | ✅ | 04-Nov-2025 |
+| 184 | Encode and Decode TinyURL | Hashing | Medium | ✅ | ✅ | 05-Nov-2025 |
+| 185 | Design HashMap | Hashing | Easy | ✅ | ✅ | 06-Nov-2025 |
+| 186 | Subarray Sum Equals K | Hashing | Medium | ✅ | ✅ | 07-Nov-2025 |
+| 187 | Longest Consecutive Sequence | Hashing | Medium | ✅ | ✅ | 08-Nov-2025 |
+| 188 | 4Sum II | Hashing | Medium | ✅ | ✅ | 09-Nov-2025 |
+| 189 | Ransom Note | Hashing | Easy | ✅ | ✅ | 10-Nov-2025 |
 | 190 | Maximum Subarray | Greedy | Medium | ⬜ | ⬜ | — |
 | 191 | Jump Game | Greedy | Medium | ⬜ | ⬜ | — |
 | 192 | Jump Game II | Greedy | Medium | ⬜ | ⬜ | — |
