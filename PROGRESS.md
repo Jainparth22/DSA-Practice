@@ -1,6 +1,6 @@
 # DSA Practice — Progress Tracker
 
-**189 / 300** solved | Started: Nov 2024 | Language: C++ and Python
+**199 / 300** solved | Started: Nov 2024 | Language: C++ and Python
 
 Update this file each time you solve a question. Mark C++ with `✅` and Python with `✅`. Use `⬜` for not done.
 
@@ -197,16 +197,16 @@ Update this file each time you solve a question. Mark C++ with `✅` and Python 
 | 187 | Longest Consecutive Sequence | Hashing | Medium | ✅ | ✅ | 08-Nov-2025 |
 | 188 | 4Sum II | Hashing | Medium | ✅ | ✅ | 09-Nov-2025 |
 | 189 | Ransom Note | Hashing | Easy | ✅ | ✅ | 10-Nov-2025 |
-| 190 | Maximum Subarray | Greedy | Medium | ⬜ | ⬜ | — |
-| 191 | Jump Game | Greedy | Medium | ⬜ | ⬜ | — |
-| 192 | Jump Game II | Greedy | Medium | ⬜ | ⬜ | — |
-| 193 | Gas Station | Greedy | Medium | ⬜ | ⬜ | — |
-| 194 | Hand of Straights | Greedy | Medium | ⬜ | ⬜ | — |
-| 195 | Merge Triplets to Form Target | Greedy | Medium | ⬜ | ⬜ | — |
-| 196 | Partition Labels | Greedy | Medium | ⬜ | ⬜ | — |
-| 197 | Valid Parenthesis String | Greedy | Medium | ⬜ | ⬜ | — |
-| 198 | Min Arrows to Burst Balloons | Greedy | Medium | ⬜ | ⬜ | — |
-| 199 | Non-overlapping Intervals | Greedy | Medium | ⬜ | ⬜ | — |
+| 190 | Maximum Subarray | Greedy | Medium | ✅ | ✅ | 01-Dec-2025 |
+| 191 | Jump Game | Greedy | Medium | ✅ | ✅ | 02-Dec-2025 |
+| 192 | Jump Game II | Greedy | Medium | ✅ | ✅ | 03-Dec-2025 |
+| 193 | Gas Station | Greedy | Medium | ✅ | ✅ | 04-Dec-2025 |
+| 194 | Hand of Straights | Greedy | Medium | ✅ | ✅ | 05-Dec-2025 |
+| 195 | Merge Triplets to Form Target | Greedy | Medium | ✅ | ✅ | 06-Dec-2025 |
+| 196 | Partition Labels | Greedy | Medium | ✅ | ✅ | 07-Dec-2025 |
+| 197 | Valid Parenthesis String | Greedy | Medium | ✅ | ✅ | 08-Dec-2025 |
+| 198 | Min Arrows to Burst Balloons | Greedy | Medium | ✅ | ✅ | 09-Dec-2025 |
+| 199 | Non-overlapping Intervals | Greedy | Medium | ✅ | ✅ | 10-Dec-2025 |
 | 200 | Single Number | Bit Manipulation | Easy | ⬜ | ⬜ | — |
 | 201 | Number of 1 Bits | Bit Manipulation | Easy | ⬜ | ⬜ | — |
 | 202 | Counting Bits | Bit Manipulation | Easy | ⬜ | ⬜ | — |
