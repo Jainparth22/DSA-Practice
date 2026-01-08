@@ -1,6 +1,6 @@
 # DSA Practice — Progress Tracker
 
-**199 / 300** solved | Started: Nov 2024 | Language: C++ and Python
+**207 / 300** solved | Started: Nov 2024 | Language: C++ and Python
 
 Update this file each time you solve a question. Mark C++ with `✅` and Python with `✅`. Use `⬜` for not done.
 
@@ -207,14 +207,14 @@ Update this file each time you solve a question. Mark C++ with `✅` and Python 
 | 197 | Valid Parenthesis String | Greedy | Medium | ✅ | ✅ | 08-Dec-2025 |
 | 198 | Min Arrows to Burst Balloons | Greedy | Medium | ✅ | ✅ | 09-Dec-2025 |
 | 199 | Non-overlapping Intervals | Greedy | Medium | ✅ | ✅ | 10-Dec-2025 |
-| 200 | Single Number | Bit Manipulation | Easy | ⬜ | ⬜ | — |
-| 201 | Number of 1 Bits | Bit Manipulation | Easy | ⬜ | ⬜ | — |
-| 202 | Counting Bits | Bit Manipulation | Easy | ⬜ | ⬜ | — |
-| 203 | Reverse Bits | Bit Manipulation | Easy | ⬜ | ⬜ | — |
-| 204 | Missing Number | Bit Manipulation | Easy | ⬜ | ⬜ | — |
-| 205 | Sum of Two Integers | Bit Manipulation | Medium | ⬜ | ⬜ | — |
-| 206 | Reverse Integer | Bit Manipulation | Medium | ⬜ | ⬜ | — |
-| 207 | Power of Two | Bit Manipulation | Easy | ⬜ | ⬜ | — |
+| 200 | Single Number | Bit Manipulation | Easy | ✅ | ✅ | 01-Jan-2026 |
+| 201 | Number of 1 Bits | Bit Manipulation | Easy | ✅ | ✅ | 02-Jan-2026 |
+| 202 | Counting Bits | Bit Manipulation | Easy | ✅ | ✅ | 03-Jan-2026 |
+| 203 | Reverse Bits | Bit Manipulation | Easy | ✅ | ✅ | 04-Jan-2026 |
+| 204 | Missing Number | Bit Manipulation | Easy | ✅ | ✅ | 05-Jan-2026 |
+| 205 | Sum of Two Integers | Bit Manipulation | Medium | ✅ | ✅ | 06-Jan-2026 |
+| 206 | Reverse Integer | Bit Manipulation | Medium | ✅ | ✅ | 07-Jan-2026 |
+| 207 | Power of Two | Bit Manipulation | Easy | ✅ | ✅ | 08-Jan-2026 |
 | 208 | Palindrome Number | Math | Easy | ⬜ | ⬜ | — |
 | 209 | Plus One | Math | Easy | ⬜ | ⬜ | — |
 | 210 | Pow(x, n) | Math | Medium | ⬜ | ⬜ | — |
