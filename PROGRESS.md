@@ -1,6 +1,6 @@
 # DSA Practice — Progress Tracker
 
-**207 / 300** solved | Started: Nov 2024 | Language: C++ and Python
+**215 / 300** solved | Started: Nov 2024 | Language: C++ and Python
 
 Update this file each time you solve a question. Mark C++ with `✅` and Python with `✅`. Use `⬜` for not done.
 
@@ -215,14 +215,14 @@ Update this file each time you solve a question. Mark C++ with `✅` and Python 
 | 205 | Sum of Two Integers | Bit Manipulation | Medium | ✅ | ✅ | 06-Jan-2026 |
 | 206 | Reverse Integer | Bit Manipulation | Medium | ✅ | ✅ | 07-Jan-2026 |
 | 207 | Power of Two | Bit Manipulation | Easy | ✅ | ✅ | 08-Jan-2026 |
-| 208 | Palindrome Number | Math | Easy | ⬜ | ⬜ | — |
-| 209 | Plus One | Math | Easy | ⬜ | ⬜ | — |
-| 210 | Pow(x, n) | Math | Medium | ⬜ | ⬜ | — |
-| 211 | Multiply Strings | Math | Medium | ⬜ | ⬜ | — |
-| 212 | Factorial Trailing Zeroes | Math | Medium | ⬜ | ⬜ | — |
-| 213 | Excel Sheet Column Number | Math | Easy | ⬜ | ⬜ | — |
-| 214 | Happy Number | Math | Easy | ⬜ | ⬜ | — |
-| 215 | Roman to Integer | Math | Easy | ⬜ | ⬜ | — |
+| 208 | Palindrome Number | Math | Easy | ✅ | ✅ | 01-Feb-2026 |
+| 209 | Plus One | Math | Easy | ✅ | ✅ | 02-Feb-2026 |
+| 210 | Pow(x, n) | Math | Medium | ✅ | ✅ | 03-Feb-2026 |
+| 211 | Multiply Strings | Math | Medium | ✅ | ✅ | 04-Feb-2026 |
+| 212 | Factorial Trailing Zeroes | Math | Medium | ✅ | ✅ | 05-Feb-2026 |
+| 213 | Excel Sheet Column Number | Math | Easy | ✅ | ✅ | 06-Feb-2026 |
+| 214 | Happy Number | Math | Easy | ✅ | ✅ | 07-Feb-2026 |
+| 215 | Roman to Integer | Math | Easy | ✅ | ✅ | 08-Feb-2026 |
 | 216 | Insert Interval | Intervals | Medium | ⬜ | ⬜ | — |
 | 217 | Merge Intervals | Intervals | Medium | ⬜ | ⬜ | — |
 | 218 | Non-overlapping Intervals | Intervals | Medium | ⬜ | ⬜ | — |
