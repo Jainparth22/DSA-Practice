@@ -1,6 +1,6 @@
 # DSA Practice — Progress Tracker
 
-**215 / 300** solved | Started: Nov 2024 | Language: C++ and Python
+**223 / 300** solved | Started: Nov 2024 | Language: C++ and Python
 
 Update this file each time you solve a question. Mark C++ with `✅` and Python with `✅`. Use `⬜` for not done.
 
@@ -223,14 +223,14 @@ Update this file each time you solve a question. Mark C++ with `✅` and Python 
 | 213 | Excel Sheet Column Number | Math | Easy | ✅ | ✅ | 06-Feb-2026 |
 | 214 | Happy Number | Math | Easy | ✅ | ✅ | 07-Feb-2026 |
 | 215 | Roman to Integer | Math | Easy | ✅ | ✅ | 08-Feb-2026 |
-| 216 | Insert Interval | Intervals | Medium | ⬜ | ⬜ | — |
-| 217 | Merge Intervals | Intervals | Medium | ⬜ | ⬜ | — |
-| 218 | Non-overlapping Intervals | Intervals | Medium | ⬜ | ⬜ | — |
-| 219 | Meeting Rooms | Intervals | Easy | ⬜ | ⬜ | — |
-| 220 | Meeting Rooms II | Intervals | Medium | ⬜ | ⬜ | — |
-| 221 | Minimum Number of Arrows | Intervals | Medium | ⬜ | ⬜ | — |
-| 222 | Interval List Intersections | Intervals | Medium | ⬜ | ⬜ | — |
-| 223 | Employee Free Time | Intervals | Hard | ⬜ | ⬜ | — |
+| 216 | Insert Interval | Intervals | Medium | ✅ | ✅ | 01-Mar-2026 |
+| 217 | Merge Intervals | Intervals | Medium | ✅ | ✅ | 02-Mar-2026 |
+| 218 | Non-overlapping Intervals | Intervals | Medium | ✅ | ✅ | 03-Mar-2026 |
+| 219 | Meeting Rooms | Intervals | Easy | ✅ | ✅ | 04-Mar-2026 |
+| 220 | Meeting Rooms II | Intervals | Medium | ✅ | ✅ | 05-Mar-2026 |
+| 221 | Minimum Number of Arrows | Intervals | Medium | ✅ | ✅ | 06-Mar-2026 |
+| 222 | Interval List Intersections | Intervals | Medium | ✅ | ✅ | 07-Mar-2026 |
+| 223 | Employee Free Time | Intervals | Hard | ✅ | ✅ | 08-Mar-2026 |
 | 224 | Set Matrix Zeroes | Matrix | Medium | ⬜ | ⬜ | — |
 | 225 | Spiral Matrix | Matrix | Medium | ⬜ | ⬜ | — |
 | 226 | Rotate Image | Matrix | Medium | ⬜ | ⬜ | — |
