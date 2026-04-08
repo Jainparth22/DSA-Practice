@@ -1,6 +1,6 @@
 # DSA Practice — Progress Tracker
 
-**223 / 300** solved | Started: Nov 2024 | Language: C++ and Python
+**231 / 300** solved | Started: Nov 2024 | Language: C++ and Python
 
 Update this file each time you solve a question. Mark C++ with `✅` and Python with `✅`. Use `⬜` for not done.
 
@@ -231,14 +231,14 @@ Update this file each time you solve a question. Mark C++ with `✅` and Python 
 | 221 | Minimum Number of Arrows | Intervals | Medium | ✅ | ✅ | 06-Mar-2026 |
 | 222 | Interval List Intersections | Intervals | Medium | ✅ | ✅ | 07-Mar-2026 |
 | 223 | Employee Free Time | Intervals | Hard | ✅ | ✅ | 08-Mar-2026 |
-| 224 | Set Matrix Zeroes | Matrix | Medium | ⬜ | ⬜ | — |
-| 225 | Spiral Matrix | Matrix | Medium | ⬜ | ⬜ | — |
-| 226 | Rotate Image | Matrix | Medium | ⬜ | ⬜ | — |
-| 227 | Word Search | Matrix | Medium | ⬜ | ⬜ | — |
-| 228 | Search a 2D Matrix | Matrix | Medium | ⬜ | ⬜ | — |
-| 229 | Number of Islands | Matrix | Medium | ⬜ | ⬜ | — |
-| 230 | Game of Life | Matrix | Medium | ⬜ | ⬜ | — |
-| 231 | Maximal Square | Matrix | Medium | ⬜ | ⬜ | — |
+| 224 | Set Matrix Zeroes | Matrix | Medium | ✅ | ✅ | 01-Apr-2026 |
+| 225 | Spiral Matrix | Matrix | Medium | ✅ | ✅ | 02-Apr-2026 |
+| 226 | Rotate Image | Matrix | Medium | ✅ | ✅ | 03-Apr-2026 |
+| 227 | Word Search | Matrix | Medium | ✅ | ✅ | 04-Apr-2026 |
+| 228 | Search a 2D Matrix | Matrix | Medium | ✅ | ✅ | 05-Apr-2026 |
+| 229 | Number of Islands | Matrix | Medium | ✅ | ✅ | 06-Apr-2026 |
+| 230 | Game of Life | Matrix | Medium | ✅ | ✅ | 07-Apr-2026 |
+| 231 | Maximal Square | Matrix | Medium | ✅ | ✅ | 08-Apr-2026 |
 | 232 | Implement Trie | Trie | Medium | ⬜ | ⬜ | — |
 | 233 | Design Add and Search Words | Trie | Medium | ⬜ | ⬜ | — |
 | 234 | Word Search II | Trie | Hard | ⬜ | ⬜ | — |
