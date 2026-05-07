@@ -1,6 +1,6 @@
 # DSA Practice — Progress Tracker
 
-**231 / 300** solved | Started: Nov 2024 | Language: C++ and Python
+**238 / 300** solved | Started: Nov 2024 | Language: C++ and Python
 
 Update this file each time you solve a question. Mark C++ with `✅` and Python with `✅`. Use `⬜` for not done.
 
@@ -239,13 +239,13 @@ Update this file each time you solve a question. Mark C++ with `✅` and Python 
 | 229 | Number of Islands | Matrix | Medium | ✅ | ✅ | 06-Apr-2026 |
 | 230 | Game of Life | Matrix | Medium | ✅ | ✅ | 07-Apr-2026 |
 | 231 | Maximal Square | Matrix | Medium | ✅ | ✅ | 08-Apr-2026 |
-| 232 | Implement Trie | Trie | Medium | ⬜ | ⬜ | — |
-| 233 | Design Add and Search Words | Trie | Medium | ⬜ | ⬜ | — |
-| 234 | Word Search II | Trie | Hard | ⬜ | ⬜ | — |
-| 235 | Replace Words | Trie | Medium | ⬜ | ⬜ | — |
-| 236 | Map Sum Pairs | Trie | Medium | ⬜ | ⬜ | — |
-| 237 | Longest Word in Dictionary | Trie | Medium | ⬜ | ⬜ | — |
-| 238 | Index Pairs of a String | Trie | Easy | ⬜ | ⬜ | — |
+| 232 | Implement Trie | Trie | Medium | ✅ | ✅ | 01-May-2026 |
+| 233 | Design Add and Search Words | Trie | Medium | ✅ | ✅ | 02-May-2026 |
+| 234 | Word Search II | Trie | Hard | ✅ | ✅ | 03-May-2026 |
+| 235 | Replace Words | Trie | Medium | ✅ | ✅ | 04-May-2026 |
+| 236 | Map Sum Pairs | Trie | Medium | ✅ | ✅ | 05-May-2026 |
+| 237 | Longest Word in Dictionary | Trie | Medium | ✅ | ✅ | 06-May-2026 |
+| 238 | Index Pairs of a String | Trie | Easy | ✅ | ✅ | 07-May-2026 |
 | 239 | Sliding Window Maximum | Advanced | Hard | ⬜ | ⬜ | — |
 | 240 | Count of Smaller Numbers After Self | Advanced | Hard | ⬜ | ⬜ | — |
 | 241 | Range Sum Query — Mutable | Advanced | Medium | ⬜ | ⬜ | — |
