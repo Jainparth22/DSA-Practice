@@ -1,6 +1,6 @@
 # DSA Practice — Progress Tracker
 
-**238 / 300** solved | Started: Nov 2024 | Language: C++ and Python
+**268 / 300** solved | Started: Nov 2024 | Language: C++ and Python
 
 Update this file each time you solve a question. Mark C++ with `✅` and Python with `✅`. Use `⬜` for not done.
 
@@ -246,36 +246,36 @@ Update this file each time you solve a question. Mark C++ with `✅` and Python 
 | 236 | Map Sum Pairs | Trie | Medium | ✅ | ✅ | 05-May-2026 |
 | 237 | Longest Word in Dictionary | Trie | Medium | ✅ | ✅ | 06-May-2026 |
 | 238 | Index Pairs of a String | Trie | Easy | ✅ | ✅ | 07-May-2026 |
-| 239 | Sliding Window Maximum | Advanced | Hard | ⬜ | ⬜ | — |
-| 240 | Count of Smaller Numbers After Self | Advanced | Hard | ⬜ | ⬜ | — |
-| 241 | Range Sum Query — Mutable | Advanced | Medium | ⬜ | ⬜ | — |
-| 242 | LRU Cache | Advanced | Medium | ⬜ | ⬜ | — |
-| 243 | LFU Cache | Advanced | Hard | ⬜ | ⬜ | — |
-| 244 | Reverse Pairs | Advanced | Hard | ⬜ | ⬜ | — |
-| 245 | Maximum Frequency Stack | Advanced | Hard | ⬜ | ⬜ | — |
-| 246 | Min Number of Refueling Stops | Advanced | Hard | ⬜ | ⬜ | — |
-| 247 | Minimum Window Subsequence | Advanced | Hard | ⬜ | ⬜ | — |
-| 248 | Maximum Points from Cards | Advanced | Medium | ⬜ | ⬜ | — |
-| 249 | Longest Turbulent Subarray | Advanced | Medium | ⬜ | ⬜ | — |
-| 250 | Maximum Erasure Value | Advanced | Medium | ⬜ | ⬜ | — |
-| 251 | Maximize the Confusion of an Exam | Advanced | Medium | ⬜ | ⬜ | — |
-| 252 | Frequency of the Most Frequent Element | Advanced | Medium | ⬜ | ⬜ | — |
-| 253 | Longest Subarray of 1s After Deleting One Element | Advanced | Medium | ⬜ | ⬜ | — |
-| 254 | Shortest Path in a Grid with Obstacles Elimination | Advanced | Hard | ⬜ | ⬜ | — |
-| 255 | Find K Pairs with Smallest Sums | Advanced | Medium | ⬜ | ⬜ | — |
-| 256 | Minimum Interval to Include Each Query | Advanced | Hard | ⬜ | ⬜ | — |
-| 257 | Design In-Memory File System | Advanced | Hard | ⬜ | ⬜ | — |
-| 258 | The Skyline Problem | Advanced | Hard | ⬜ | ⬜ | — |
-| 259 | Count of Range Sum | Advanced | Hard | ⬜ | ⬜ | — |
-| 260 | Trapping Rain Water II | Advanced | Hard | ⬜ | ⬜ | — |
-| 261 | Cherry Pickup | Advanced | Hard | ⬜ | ⬜ | — |
-| 262 | Burst Balloons | Advanced | Hard | ⬜ | ⬜ | — |
-| 263 | Strange Printer | Advanced | Hard | ⬜ | ⬜ | — |
-| 264 | Largest Rectangle in Histogram | Advanced | Hard | ⬜ | ⬜ | — |
-| 265 | Maximum Rectangle | Advanced | Hard | ⬜ | ⬜ | — |
-| 266 | Minimum Cost to Cut a Stick | Advanced | Hard | ⬜ | ⬜ | — |
-| 267 | Zuma Game | Advanced | Hard | ⬜ | ⬜ | — |
-| 268 | Remove Boxes | Advanced | Hard | ⬜ | ⬜ | — |
+| 239 | Sliding Window Maximum | Advanced | Hard | ✅ | ✅ | 01-Jun-2026 |
+| 240 | Count of Smaller Numbers After Self | Advanced | Hard | ✅ | ✅ | 02-Jun-2026 |
+| 241 | Range Sum Query — Mutable | Advanced | Medium | ✅ | ✅ | 03-Jun-2026 |
+| 242 | LRU Cache | Advanced | Medium | ✅ | ✅ | 04-Jun-2026 |
+| 243 | LFU Cache | Advanced | Hard | ✅ | ✅ | 05-Jun-2026 |
+| 244 | Reverse Pairs | Advanced | Hard | ✅ | ✅ | 06-Jun-2026 |
+| 245 | Maximum Frequency Stack | Advanced | Hard | ✅ | ✅ | 07-Jun-2026 |
+| 246 | Min Number of Refueling Stops | Advanced | Hard | ✅ | ✅ | 08-Jun-2026 |
+| 247 | Minimum Window Subsequence | Advanced | Hard | ✅ | ✅ | 09-Jun-2026 |
+| 248 | Maximum Points from Cards | Advanced | Medium | ✅ | ✅ | 10-Jun-2026 |
+| 249 | Longest Turbulent Subarray | Advanced | Medium | ✅ | ✅ | 11-Jun-2026 |
+| 250 | Maximum Erasure Value | Advanced | Medium | ✅ | ✅ | 12-Jun-2026 |
+| 251 | Maximize the Confusion of an Exam | Advanced | Medium | ✅ | ✅ | 13-Jun-2026 |
+| 252 | Frequency of the Most Frequent Element | Advanced | Medium | ✅ | ✅ | 14-Jun-2026 |
+| 253 | Longest Subarray of 1s After Deleting One Element | Advanced | Medium | ✅ | ✅ | 15-Jun-2026 |
+| 254 | Shortest Path in a Grid with Obstacles Elimination | Advanced | Hard | ✅ | ✅ | 16-Jun-2026 |
+| 255 | Find K Pairs with Smallest Sums | Advanced | Medium | ✅ | ✅ | 17-Jun-2026 |
+| 256 | Minimum Interval to Include Each Query | Advanced | Hard | ✅ | ✅ | 18-Jun-2026 |
+| 257 | Design In-Memory File System | Advanced | Hard | ✅ | ✅ | 19-Jun-2026 |
+| 258 | The Skyline Problem | Advanced | Hard | ✅ | ✅ | 20-Jun-2026 |
+| 259 | Count of Range Sum | Advanced | Hard | ✅ | ✅ | 21-Jun-2026 |
+| 260 | Trapping Rain Water II | Advanced | Hard | ✅ | ✅ | 22-Jun-2026 |
+| 261 | Cherry Pickup | Advanced | Hard | ✅ | ✅ | 23-Jun-2026 |
+| 262 | Burst Balloons | Advanced | Hard | ✅ | ✅ | 24-Jun-2026 |
+| 263 | Strange Printer | Advanced | Hard | ✅ | ✅ | 25-Jun-2026 |
+| 264 | Largest Rectangle in Histogram | Advanced | Hard | ✅ | ✅ | 26-Jun-2026 |
+| 265 | Maximum Rectangle | Advanced | Hard | ✅ | ✅ | 27-Jun-2026 |
+| 266 | Minimum Cost to Cut a Stick | Advanced | Hard | ✅ | ✅ | 28-Jun-2026 |
+| 267 | Zuma Game | Advanced | Hard | ✅ | ✅ | 29-Jun-2026 |
+| 268 | Remove Boxes | Advanced | Hard | ✅ | ✅ | 30-Jun-2026 |
 | 269 | Student Attendance Record II | Advanced | Hard | ⬜ | ⬜ | — |
 | 270 | Frog Jump | Advanced | Hard | ⬜ | ⬜ | — |
 | 271 | Split Array Largest Sum | Advanced | Hard | ⬜ | ⬜ | — |
