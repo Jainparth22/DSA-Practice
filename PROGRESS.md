@@ -1,6 +1,6 @@
 # DSA Practice — Progress Tracker
 
-**268 / 300** solved | Started: Nov 2024 | Language: C++ and Python
+**299 / 300** solved | Started: Nov 2024 | Language: C++ and Python
 
 Update this file each time you solve a question. Mark C++ with `✅` and Python with `✅`. Use `⬜` for not done.
 
@@ -276,35 +276,35 @@ Update this file each time you solve a question. Mark C++ with `✅` and Python 
 | 266 | Minimum Cost to Cut a Stick | Advanced | Hard | ✅ | ✅ | 28-Jun-2026 |
 | 267 | Zuma Game | Advanced | Hard | ✅ | ✅ | 29-Jun-2026 |
 | 268 | Remove Boxes | Advanced | Hard | ✅ | ✅ | 30-Jun-2026 |
-| 269 | Student Attendance Record II | Advanced | Hard | ⬜ | ⬜ | — |
-| 270 | Frog Jump | Advanced | Hard | ⬜ | ⬜ | — |
-| 271 | Split Array Largest Sum | Advanced | Hard | ⬜ | ⬜ | — |
-| 272 | Minimum Number of Taps to Open to Water a Garden | Advanced | Hard | ⬜ | ⬜ | — |
-| 273 | Video Stitching | Advanced | Medium | ⬜ | ⬜ | — |
-| 274 | Jump Game V | Advanced | Hard | ⬜ | ⬜ | — |
-| 275 | Maximum Profit in Job Scheduling | Advanced | Hard | ⬜ | ⬜ | — |
-| 276 | Number of Ways to Paint N x 3 Grid | Advanced | Hard | ⬜ | ⬜ | — |
-| 277 | Stone Game IV | Advanced | Hard | ⬜ | ⬜ | — |
-| 278 | Count Vowels Permutation | Advanced | Hard | ⬜ | ⬜ | — |
-| 279 | Minimum Difficulty of a Job Schedule | Advanced | Hard | ⬜ | ⬜ | — |
-| 280 | Maximize Score After N Operations | Advanced | Hard | ⬜ | ⬜ | — |
-| 281 | Painting a Grid With Three Different Colors | Advanced | Hard | ⬜ | ⬜ | — |
-| 282 | Number of Increasing Paths in a Grid | Advanced | Hard | ⬜ | ⬜ | — |
-| 283 | Count All Valid Pickup and Delivery Options | Advanced | Hard | ⬜ | ⬜ | — |
-| 284 | Number of Ways to Reorder Array with Same BST | Advanced | Hard | ⬜ | ⬜ | — |
-| 285 | Find the Shortest Superstring | Advanced | Hard | ⬜ | ⬜ | — |
-| 286 | Minimum Cost to Make at Least One Valid Path in a Grid | Advanced | Hard | ⬜ | ⬜ | — |
-| 287 | Swim in Rising Water | Advanced | Hard | ⬜ | ⬜ | — |
-| 288 | Alien Dictionary | Advanced | Hard | ⬜ | ⬜ | — |
-| 289 | Serialize and Deserialize N-ary Tree | Advanced | Hard | ⬜ | ⬜ | — |
-| 290 | Find Median from Data Stream | Advanced | Hard | ⬜ | ⬜ | — |
-| 291 | Word Ladder II | Advanced | Hard | ⬜ | ⬜ | — |
-| 292 | Regular Expression Matching | Advanced | Hard | ⬜ | ⬜ | — |
-| 293 | Edit Distance | Advanced | Hard | ⬜ | ⬜ | — |
-| 294 | Interleaving String | Advanced | Hard | ⬜ | ⬜ | — |
-| 295 | Distinct Subsequences | Advanced | Hard | ⬜ | ⬜ | — |
-| 296 | Wildcard Matching | Advanced | Hard | ⬜ | ⬜ | — |
-| 297 | IPO | Advanced | Hard | ⬜ | ⬜ | — |
-| 298 | Employee Free Time | Advanced | Hard | ⬜ | ⬜ | — |
-| 299 | Minimum Window Subsequence | Advanced | Hard | ⬜ | ⬜ | — |
+| 269 | Student Attendance Record II | Advanced | Hard | ✅ | ✅ | 01-Jul-2026 |
+| 270 | Frog Jump | Advanced | Hard | ✅ | ✅ | 02-Jul-2026 |
+| 271 | Split Array Largest Sum | Advanced | Hard | ✅ | ✅ | 03-Jul-2026 |
+| 272 | Minimum Number of Taps to Open to Water a Garden | Advanced | Hard | ✅ | ✅ | 04-Jul-2026 |
+| 273 | Video Stitching | Advanced | Medium | ✅ | ✅ | 05-Jul-2026 |
+| 274 | Jump Game V | Advanced | Hard | ✅ | ✅ | 06-Jul-2026 |
+| 275 | Maximum Profit in Job Scheduling | Advanced | Hard | ✅ | ✅ | 07-Jul-2026 |
+| 276 | Number of Ways to Paint N x 3 Grid | Advanced | Hard | ✅ | ✅ | 08-Jul-2026 |
+| 277 | Stone Game IV | Advanced | Hard | ✅ | ✅ | 09-Jul-2026 |
+| 278 | Count Vowels Permutation | Advanced | Hard | ✅ | ✅ | 10-Jul-2026 |
+| 279 | Minimum Difficulty of a Job Schedule | Advanced | Hard | ✅ | ✅ | 11-Jul-2026 |
+| 280 | Maximize Score After N Operations | Advanced | Hard | ✅ | ✅ | 12-Jul-2026 |
+| 281 | Painting a Grid With Three Different Colors | Advanced | Hard | ✅ | ✅ | 13-Jul-2026 |
+| 282 | Number of Increasing Paths in a Grid | Advanced | Hard | ✅ | ✅ | 14-Jul-2026 |
+| 283 | Count All Valid Pickup and Delivery Options | Advanced | Hard | ✅ | ✅ | 15-Jul-2026 |
+| 284 | Number of Ways to Reorder Array with Same BST | Advanced | Hard | ✅ | ✅ | 16-Jul-2026 |
+| 285 | Find the Shortest Superstring | Advanced | Hard | ✅ | ✅ | 17-Jul-2026 |
+| 286 | Minimum Cost to Make at Least One Valid Path in a Grid | Advanced | Hard | ✅ | ✅ | 18-Jul-2026 |
+| 287 | Swim in Rising Water | Advanced | Hard | ✅ | ✅ | 19-Jul-2026 |
+| 288 | Alien Dictionary | Advanced | Hard | ✅ | ✅ | 20-Jul-2026 |
+| 289 | Serialize and Deserialize N-ary Tree | Advanced | Hard | ✅ | ✅ | 21-Jul-2026 |
+| 290 | Find Median from Data Stream | Advanced | Hard | ✅ | ✅ | 22-Jul-2026 |
+| 291 | Word Ladder II | Advanced | Hard | ✅ | ✅ | 23-Jul-2026 |
+| 292 | Regular Expression Matching | Advanced | Hard | ✅ | ✅ | 24-Jul-2026 |
+| 293 | Edit Distance | Advanced | Hard | ✅ | ✅ | 25-Jul-2026 |
+| 294 | Interleaving String | Advanced | Hard | ✅ | ✅ | 26-Jul-2026 |
+| 295 | Distinct Subsequences | Advanced | Hard | ✅ | ✅ | 27-Jul-2026 |
+| 296 | Wildcard Matching | Advanced | Hard | ✅ | ✅ | 28-Jul-2026 |
+| 297 | IPO | Advanced | Hard | ✅ | ✅ | 29-Jul-2026 |
+| 298 | Employee Free Time | Advanced | Hard | ✅ | ✅ | 30-Jul-2026 |
+| 299 | Minimum Window Subsequence | Advanced | Hard | ✅ | ✅ | 31-Jul-2026 |
 | 300 | The Skyline Problem | Advanced | Hard | ⬜ | ⬜ | — |
