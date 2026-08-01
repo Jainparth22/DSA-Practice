@@ -1,6 +1,6 @@
 # DSA Practice — Progress Tracker
 
-**299 / 300** solved | Started: Nov 2024 | Language: C++ and Python
+**300 / 300** solved | Started: Nov 2024 | Language: C++ and Python
 
 Update this file each time you solve a question. Mark C++ with `✅` and Python with `✅`. Use `⬜` for not done.
 
@@ -307,4 +307,4 @@ Update this file each time you solve a question. Mark C++ with `✅` and Python 
 | 297 | IPO | Advanced | Hard | ✅ | ✅ | 29-Jul-2026 |
 | 298 | Employee Free Time | Advanced | Hard | ✅ | ✅ | 30-Jul-2026 |
 | 299 | Minimum Window Subsequence | Advanced | Hard | ✅ | ✅ | 31-Jul-2026 |
-| 300 | The Skyline Problem | Advanced | Hard | ⬜ | ⬜ | — |
+| 300 | The Skyline Problem | Advanced | Hard | ✅ | ✅ | 01-Aug-2026 |
